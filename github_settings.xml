@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="d312abba-1151-4214-ba42-c30e41eab108" name="marjorge.esquivel@accenture.com">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
